@@ -1,0 +1,22 @@
+{
+    "domain": "verify.toine.ml",
+    "https": false,
+    "http_port": 81,
+    "discord": {
+        "token": "OTg0NzAwMDkwNTMyOTA1MDAw.G_2LZx.HhKRB6Tk4MvWqkGcln0xVI2rR6fkmjn2ukDMJA",
+        "guild-id": "984034364285419531",
+        "verified-role-id": "984700187744272404",
+        "_comment": "Ci-dessous est destiné aux utilisateurs qui souhaitent qu'un rôle soit supprimé lors de la vérification, si vous le souhaitez, définissez remove-role sur true et définissez votre ID de rôle de suppression.",
+        "remove-role": false,
+        "remove-role-id": "",
+        "prefix": "!",
+        "status": "Capchater",
+        "_comment": "By default, rules are set to disabled, this means rules will be hidden. If you want to use the rules function, change disabled to your rules. Please ensure you use \n for each line break and do not use any symbols that could interfear with JSON.",
+        "rulesenabled": false,
+        "rules": "Type your rules here if rulesenabled is enabled, ensure to use \n for new lines"
+    },
+    "recaptcha": {
+        "secret-key": "6LcE0FsgAAAAAElOOnULtQpRMgzEq06DZn45y_sU",
+        "public-key": "6LcE0FsgAAAAAJQjVSa2GBm9Hw9mqo1BxfLFGb5R"
+    }
+}
